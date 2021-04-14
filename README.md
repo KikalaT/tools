@@ -12,3 +12,5 @@ wordcloud_simple.py
 
 NBenies-barcode_search.py
 
+text_summary.py
+
